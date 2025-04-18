@@ -1,7 +1,0 @@
-.env
-*.sqlite
-*.db
-*.zip
-__pycache__/
-*.log
-*.har
